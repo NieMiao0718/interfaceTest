@@ -1,0 +1,14 @@
+{
+    "URL": {
+        "nuri": {
+                "protocol": "http",
+                "domain": "nscloud.api.nsfocus.com",
+                "port": "80"
+            },
+        "tembin": {
+               "protocol": "https",
+               "domain": "pre.sop.intra.nsfocus.com",
+               "port": "443"
+            }
+    }
+}

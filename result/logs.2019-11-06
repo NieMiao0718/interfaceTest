@@ -1,0 +1,969 @@
+2019-11-05 10:41:37,284 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 10:41:56,381 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 10:42:19,286 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 10:44:26,226 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 10:44:33,300 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 10:44:39,797 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 10:44:45,994 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 10:48:28,109 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 10:48:28,111 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 10:48:28,111 - logs… - INFO - caseList[]
+2019-11-05 10:48:28,256 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 10:48:28,260 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 10:48:28,264 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 11:37:34,603 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 11:37:34,604 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 11:37:34,604 - logs… - INFO - caseList[]
+2019-11-05 11:37:34,685 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 11:37:34,689 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 11:37:34,693 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 15:39:00,389 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:09:08,406 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:11:28,906 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:11:28,906 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:11:28,906 - logs… - INFO - caseList[]
+2019-11-05 16:11:29,000 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:11:29,004 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:11:29,008 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 16:36:52,230 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:36:52,230 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:36:52,230 - logs… - INFO - caseList[]
+2019-11-05 16:36:52,323 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:36:52,327 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:36:52,331 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 16:38:51,612 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:38:51,612 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:38:51,612 - logs… - INFO - caseList[]
+2019-11-05 16:38:51,691 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:38:51,695 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:38:51,699 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 16:39:51,049 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:39:51,050 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:39:51,050 - logs… - INFO - caseList[]
+2019-11-05 16:39:51,125 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:39:51,129 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:39:51,132 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 16:44:54,334 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:44:54,335 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:44:54,335 - logs… - INFO - caseList[]
+2019-11-05 16:44:54,411 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:44:54,415 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:44:54,418 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 16:46:07,474 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:46:07,475 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:46:07,475 - logs… - INFO - caseList[]
+2019-11-05 16:46:07,588 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:46:07,592 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:46:07,596 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 16:48:29,146 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 16:48:29,146 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 16:48:29,146 - logs… - INFO - caseList[]
+2019-11-05 16:48:29,236 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 16:48:29,240 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 16:48:29,244 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 17:08:09,194 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 17:08:09,195 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 17:08:09,195 - logs… - INFO - caseList[]
+2019-11-05 17:08:09,286 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:08:09,291 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 17:08:09,297 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 17:17:24,018 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 17:17:24,019 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 17:17:24,019 - logs… - INFO - caseList[]
+2019-11-05 17:17:24,105 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:17:24,111 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 17:17:24,115 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 17:24:03,031 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 17:24:03,031 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 17:24:03,031 - logs… - INFO - caseList[]
+2019-11-05 17:24:03,111 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:24:03,115 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 17:24:03,118 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 17:25:54,504 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 17:25:54,505 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 17:25:54,505 - logs… - INFO - caseList[]
+2019-11-05 17:29:09,224 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 17:29:09,224 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 17:29:09,224 - logs… - INFO - caseList[]
+2019-11-05 17:29:54,299 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 17:29:54,299 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 17:29:54,299 - logs… - INFO - caseList[]
+2019-11-05 17:29:54,383 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:29:54,387 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 17:29:54,391 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 17:31:56,677 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:31:56,750 - logs… - INFO - {
+  "detail": "Unsupported media type \"application/x-www-form-urlencoded\" in request."
+}
+2019-11-05 17:32:04,995 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:32:05,062 - logs… - INFO - {
+  "detail": "Unsupported media type \"application/x-www-form-urlencoded\" in request."
+}
+2019-11-05 17:32:16,705 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:32:16,768 - logs… - INFO - {
+  "detail": "Unsupported media type \"application/x-www-form-urlencoded\" in request."
+}
+2019-11-05 17:32:51,583 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 17:43:08,383 - logs… - INFO - None
+2019-11-05 17:46:20,819 - logs… - INFO - {
+  "detail": "Unsupported media type \"application/x-www-form-urlencoded\" in request."
+}
+2019-11-05 17:47:45,782 - logs… - INFO - None
+2019-11-05 18:06:35,526 - logs… - INFO - None
+2019-11-05 18:08:25,093 - logs… - INFO - None
+2019-11-05 18:08:55,613 - logs… - INFO - None
+2019-11-05 18:09:47,459 - logs… - INFO - None
+2019-11-05 18:15:30,876 - logs… - INFO - None
+2019-11-05 18:16:40,454 - logs… - INFO - None
+2019-11-05 18:17:07,393 - logs… - INFO - None
+2019-11-05 18:17:19,032 - logs… - INFO - None
+2019-11-05 18:18:02,271 - logs… - INFO - None
+2019-11-05 18:18:15,101 - logs… - INFO - None
+2019-11-05 18:28:02,929 - logs… - INFO - None
+2019-11-05 18:28:18,375 - logs… - INFO - None
+2019-11-05 18:34:29,066 - logs… - INFO - None
+2019-11-05 18:37:47,626 - logs… - INFO - None
+2019-11-05 18:37:57,049 - logs… - INFO - None
+2019-11-05 18:37:57,126 - logs… - INFO - None
+2019-11-05 18:42:37,976 - logs… - INFO - None
+2019-11-05 18:42:38,093 - logs… - INFO - None
+2019-11-05 18:45:19,445 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 18:47:02,074 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 18:47:02,075 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 18:47:02,075 - logs… - INFO - caseList[]
+2019-11-05 18:47:39,543 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 18:49:00,512 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 18:49:00,513 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 18:49:00,513 - logs… - INFO - caseList[]
+2019-11-05 18:49:22,798 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 18:49:22,798 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 18:49:22,799 - logs… - INFO - caseList[]
+2019-11-05 18:50:15,541 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 18:50:36,417 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 18:50:36,417 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 18:50:36,418 - logs… - INFO - caseList[]
+2019-11-05 18:54:29,055 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 18:54:29,055 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 18:54:29,055 - logs… - INFO - caseList[]
+2019-11-05 18:54:52,821 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 18:57:13,250 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 18:57:39,574 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 18:57:39,574 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 18:57:39,574 - logs… - INFO - caseList[]
+2019-11-05 19:01:44,696 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 19:01:44,696 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 19:01:44,696 - logs… - INFO - caseList[]
+2019-11-05 19:04:03,742 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 19:04:03,742 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 19:04:03,742 - logs… - INFO - caseList[]
+2019-11-05 19:06:44,545 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 19:06:44,546 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 19:06:44,546 - logs… - INFO - caseList[]
+2019-11-05 19:12:11,379 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:12:11,385 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:12:11,390 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:14:23,751 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:14:23,757 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:14:23,764 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:16:00,526 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 19:16:00,531 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 19:16:00,536 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:17:19,505 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 19:17:19,510 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 19:17:19,516 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:18:05,236 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 19:18:05,240 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 19:18:05,248 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:18:12,488 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 19:18:12,493 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 19:18:12,499 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:18:41,627 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2019-11-05 19:18:41,632 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2019-11-05 19:18:41,637 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2019-11-05 19:25:06,227 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 19:38:41,586 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "12439a1a-afbf-35a7-a9b4-3b84ff6d35c0",
+    "customer_level": 1,
+    "customer_name": "auto_test1",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-05 19:38:41,646 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-05 19:39:55,159 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "5134e51d-cc08-36e8-9d56-806f41a6b72e",
+    "customer_level": 1,
+    "customer_name": "auto_test2",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-05 19:39:55,218 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-05 19:40:25,253 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 19:40:25,312 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-05 19:40:41,317 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "d188759d-17ec-3a5d-976a-9218e533419b",
+    "customer_level": 1,
+    "customer_name": "auto_test3",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-05 19:40:41,375 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-05 19:42:01,997 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-05 19:42:01,997 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-05 19:42:01,997 - logs… - INFO - caseList[]
+2019-11-05 19:42:02,151 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 19:42:02,208 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-05 19:47:33,136 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 19:47:43,995 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-05 19:47:44,054 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:25:05,376 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "4a2bb332-cb7b-3f82-ade7-a16e1c2f4604",
+    "customer_level": 1,
+    "customer_name": "auto_test_gO6h",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:25:05,431 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:26:34,362 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "59c502b4-46d3-38e9-8ff7-b4234f0776a7",
+    "customer_level": 1,
+    "customer_name": "auto_test_cazL",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:26:34,427 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:27:02,687 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "4e3c4b42-a049-32d2-b935-4b8d1dbabd37",
+    "customer_level": 1,
+    "customer_name": "auto_test_V4xC",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:27:02,747 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:32:17,201 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "1d72bbe2-9fc0-3e16-890b-a581af5106ba",
+    "customer_level": 1,
+    "customer_name": "auto_test_9wz2",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:32:17,259 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:32:17,328 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 11:34:46,392 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "547d0fb4-be15-3384-945f-f911bd92bf2b",
+    "customer_level": 1,
+    "customer_name": "auto_test_sbdZ",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:34:46,448 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:34:46,516 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 11:35:41,746 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "bb3361b0-975f-3be1-bc22-87a5f711e7c8",
+    "customer_level": 1,
+    "customer_name": "auto_test_jnKP",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:35:41,803 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:35:41,874 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 11:37:13,279 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "298719dc-08e2-3c07-a0d5-a4808c633c8b",
+    "customer_level": 1,
+    "customer_name": "auto_test_TVBh",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:37:13,348 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:37:13,432 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 11:38:17,062 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "4896b0ac-8d63-3baa-b54b-c455311db38f",
+    "customer_level": 1,
+    "customer_name": "auto_test_L2dj",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:38:17,119 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:38:17,189 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 11:38:41,900 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "e5a98029-a67f-3d55-a88e-1f3e428894fb",
+    "customer_level": 1,
+    "customer_name": "auto_test_Y5we",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 11:38:41,958 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 11:38:42,029 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 13:32:51,652 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "ece9a247-2af6-3c3b-8bc9-774c50312ad7",
+    "customer_level": 1,
+    "customer_name": "auto_test_ObwM",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 13:32:51,717 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 13:32:51,794 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 13:33:37,885 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-06 13:33:37,885 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-06 13:33:37,885 - logs… - INFO - caseList[]
+2019-11-06 13:33:38,575 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "7a821188-0fe0-32a8-acb7-748f6fe75be8",
+    "customer_level": 1,
+    "customer_name": "auto_test_gNJH",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 13:33:38,631 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 13:33:38,706 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-06 13:34:18,777 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "9abcce03-17ea-3c1b-a0a5-f9de6fb5a8ae",
+    "customer_level": 1,
+    "customer_name": "auto_test_Gn3c",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-06 13:34:18,835 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-06 13:34:18,911 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}

@@ -1,0 +1,646 @@
+2019-11-07 17:08:50,268 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-07 17:08:50,419 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-07 17:09:26,849 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-07 17:09:26,849 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-07 17:09:26,849 - logs… - INFO - caseList[]
+2019-11-07 17:09:28,152 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "5113789b-ea69-37d4-9d33-0f1a1561ee83",
+    "customer_level": 1,
+    "customer_name": "auto_test_pN5m",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-07 17:09:28,221 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-07 17:09:28,292 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-07 17:09:28,948 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-07 17:09:29,095 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-07 18:00:34,049 - logs… - INFO - {
+  "message": "Internal Server Error",
+  "module": "haishen",
+  "result": [],
+  "status": 1001
+}
+2019-11-07 18:01:38,788 - logs… - INFO - {
+  "message": "Internal Server Error",
+  "module": "haishen",
+  "result": [],
+  "status": 1001
+}
+2019-11-07 18:02:05,029 - logs… - INFO - {
+  "message": "Internal Server Error",
+  "module": "haishen",
+  "result": [],
+  "status": 1001
+}
+2019-11-08 15:06:09,349 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:06:09,628 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:06:51,015 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:06:51,225 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:07:52,017 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:07:52,701 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:08:58,536 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:08:58,812 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:09:32,895 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-08 15:09:32,895 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-08 15:09:32,895 - logs… - INFO - caseList[]
+2019-11-08 15:09:33,831 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:09:34,069 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:11:15,795 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "5eae3392-c9cc-3e71-8a4c-7e1b1fe00acb",
+    "customer_level": 1,
+    "customer_name": "auto_test_yTdw",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-08 15:11:15,855 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-08 15:11:16,212 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "b547d0e1-3585-3845-baf9-f0ef53609c68",
+    "customer_level": 1,
+    "customer_name": "auto_test",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-08 15:11:48,973 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "8466412b-3d05-3884-aa40-67b27b019c4c",
+    "customer_level": 1,
+    "customer_name": "auto_test_KNTQ",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-08 15:11:49,032 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-08 15:11:49,102 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-08 15:11:55,210 - logs… - INFO - resultPathE:\AutoTest_Projects\interfaceTest\result\report.html
+2019-11-08 15:11:55,210 - logs… - INFO - caseListFileE:\AutoTest_Projects\interfaceTest\caselist.txt
+2019-11-08 15:11:55,210 - logs… - INFO - caseList[]
+2019-11-08 15:11:55,582 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "77b8dabd-6596-3ba3-abe2-6152ccb5683c",
+    "customer_level": 1,
+    "customer_name": "auto_test_DrHp",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-08 15:11:55,638 - logs… - INFO - {
+  "message": "customer_name is null",
+  "module": "higos",
+  "result": null,
+  "status": 4000
+}
+2019-11-08 15:11:55,708 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-08 15:11:56,179 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:11:56,431 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:12:32,060 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:12:32,290 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:17:11,383 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:17:11,653 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:19:22,793 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:19:23,057 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:22:29,383 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:22:29,595 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:23:16,841 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:23:17,051 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:23:43,522 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:23:43,739 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:24:26,323 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:24:26,538 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:25:25,286 - logs… - INFO - {
+  "message": "ok",
+  "module": "tembin",
+  "result": {
+    "account_id": "f563b208-326e-448c-9bf7-c8840bd56b4b",
+    "account_name": "admin",
+    "account_role": "superadmin",
+    "action_type": "Login",
+    "groups": [
+      "ec5399b3-d530-40c6-8d92-4d2322da21e9"
+    ],
+    "login_menu": "#/hato/realtimeeventtabpage",
+    "permission_groups": []
+  },
+  "status": 2000
+}
+2019-11-08 15:25:25,531 - logs… - INFO - {
+  "message": "atsani err: {u'failInfo': {u'LOCAL': 4034}}",
+  "module": "tembin",
+  "result": {
+    "failInfo": {
+      "LOCAL": 4034
+    }
+  },
+  "status": 4034
+}
+2019-11-08 15:26:50,988 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "70d5f7c1-adbb-3431-bf89-24c75916662d",
+    "customer_level": 1,
+    "customer_name": "xiaomiing1",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
+2019-11-08 15:30:44,639 - logs… - INFO - {
+  "message": "common message: customer name duplicate",
+  "module": "higos",
+  "result": null,
+  "status": 4906
+}
+2019-11-08 15:30:58,903 - logs… - INFO - {
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "area_id": "000000",
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "customer_id": "21f2a956-3cd7-33af-91e5-104318880815",
+    "customer_level": 1,
+    "customer_name": "xiaomiing2",
+    "customer_type": 0,
+    "dept_id": null,
+    "formal": 1,
+    "industry_id": [
+      "9999"
+    ],
+    "language": "zh_CN",
+    "operation_mode": 0,
+    "parent_id": null,
+    "timezone": "Asia/Shanghai"
+  },
+  "status": 2000
+}
