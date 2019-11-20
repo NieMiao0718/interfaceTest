@@ -191,9 +191,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>Test Report</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-11-14 17:19:00</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:17.505635</p>
-<p class='attribute'><strong>Status:</strong> Pass 15</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-11-20 18:25:17</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:02.127285</p>
+<p class='attribute'><strong>Status:</strong> Pass 2</p>
 
 <p class='description'>Test Description</p>
 </div>
@@ -224,8 +224,8 @@ function showOutput(id, name) {
 </tr>
 
 <tr class='passClass'>
-    <td>paramunittest.testTembinLogin_0</td>
-    <td>tembin_login</td>
+    <td>paramunittest.testTestGet_0</td>
+    <td>get_order_details</td>
     <td>1</td>
     <td>1</td>
     <td>0</td>
@@ -248,13 +248,164 @@ function showOutput(id, name) {
         </div>
         <pre>
         
-pt1.1: tembin_login测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
+pt1.1: get_order_details: 获取订单详情
+**********测试开始**********
+**********请求信息**********
+request method: get
+request url: https://pre.sop.intra.nsfocus.com:443/api/tembin/nangka/order_detail/?order_id=1
+**********结果返回**********
+{
+  "message": null,
+  "module": "nangka",
+  "result": {
+    "account_id": null,
+    "account_info": null,
+    "agent_account_id": null,
+    "agent_account_info": null,
+    "agent_id": null,
+    "agent_info": null,
+    "agent_name": null,
+    "cancel_reason": null,
+    "cancel_time": null,
+    "contract_id": "NSFT20171025020229",
+    "create_time": "2017-10-25 10:02:29",
+    "customer_id": "eb60fac7-c3a8-3764-acfa-6a0afc6d567e",
+    "customer_info": {
+      "agent_id": null,
+      "app_id": "tembin",
+      "app_name": "绿盟云运维门户",
+      "area_id": "100000",
+      "code": null,
+      "contract_id": "    ",
+      "country_id": "CHN",
+      "country_name": "中国",
+      "created_at": 1508838947,
+      "customer_demand": "",
+      "customer_id": "eb60fac7-c3a8-3764-acfa-6a0afc6d567e",
+      "customer_level": 1,
+      "customer_level_name": "普通",
+      "customer_manager_demand": "",
+      "customer_name": "nmtest",
+      "customer_status": true,
+      "customer_type": 8,
+      "dept_id": null,
+      "dept_info": {},
+      "formal": true,
+      "id": 3,
+      "industry_id": [
+        "9999"
+      ],
+      "industry_info": [
+        {
+          "industry_en_name": " ",
+          "industry_id": "9999",
+          "industry_name": "其他",
+          "parent_industry_en_name": " ",
+          "parent_industry_id": "99",
+          "parent_industry_name": "其他"
+        }
+      ],
+      "language": "zh_CN",
+      "loc_info": {},
+      "operation_mode": 0,
+      "parent_id": null,
+      "partner_id": null,
+      "remark": "",
+      "sale_branch": null,
+      "sale_region": null,
+      "salesforce_account_name": null,
+      "timezone": "Asia/Shanghai",
+      "updated_at": 0,
+      "verification": "ee9ccc7c7837a25a87c3d3b2db6251c9"
+    },
+    "customer_name": "nmtest",
+    "erp_id": null,
+    "gst": null,
+    "id": 1,
+    "invoice": null,
+    "invoice_id": null,
+    "note": null,
+    "nsf_pay_no": null,
+    "open_time": null,
+    "operation_mode": 0,
+    "operation_time": null,
+    "order_id": 1,
+    "order_source": "tembin",
+    "order_status": 9,
+    "order_type": 2,
+    "original_order_id": null,
+    "original_price": null,
+    "overdue_time": null,
+    "partner_id": null,
+    "partner_info": null,
+    "partner_order_id": null,
+    "pay_amount": null,
+    "pay_time": null,
+    "payment_unit": "CNY",
+    "recommend_person": null,
+    "service": [
+      {
+        "commercial_num": 1,
+        "date_unit": "M",
+        "effective_time": 12,
+        "end_time": "2018-10-25T00:00:00Z",
+        "id": 1,
+        "old_a_sku_id": null,
+        "old_a_sku_info": null,
+        "order_id": 1,
+        "price_id": null,
+        "private_config_key_value": null,
+        "sale_flow": "b",
+        "sale_sku_id": "NSF-0104",
+        "sale_sku_name": "体验版--------------niemiao",
+        "service_id": 1028,
+        "service_method": 0,
+        "service_name": "网站安全评估",
+        "service_name_i18n": {
+          "en": "Website Security Assessment",
+          "zh": "网站安全评估"
+        },
+        "service_note": null,
+        "service_num": 1,
+        "service_sku_info": {
+          "create_at": 1494244267,
+          "id": 5,
+          "is_deleted": 0,
+          "note": null,
+          "private_config": {
+            "assessment": "0",
+            "scan_time_limit": "1"
+          },
+          "sale_method": "b",
+          "service_id": 1028,
+          "service_sku_id": "nsf-1028-c4197a68",
+          "service_sku_name": "网站安全评估-体验版",
+          "status": 1,
+          "update_at": 1494244267
+        },
+        "service_status": 8,
+        "service_type": 0,
+        "start_time": "2017-10-25T00:00:00Z"
+      }
+    ],
+    "service_method": 0,
+    "trade_no": null,
+    "unix_time_create_time": 1508896949,
+    "unix_time_pay_time": null,
+    "upgrade_order_id": null,
+    "verified_customer_info": {
+      "application_id": null,
+      "area_name": "中国   ",
+      "customer_id": "eb60fac7-c3a8-3764-acfa-6a0afc6d567e",
+      "customer_name": "nmtest",
+      "industry_name": "其他",
+      "is_certified": true,
+      "sub_industry_name": "其他"
+    }
+  },
+  "status": 2000
+}
+**********测试结束，输出log完结**********
 
 
 
@@ -266,8 +417,8 @@ C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarn
 </tr>
 
 <tr class='passClass'>
-    <td>paramunittest.testTembinLogin_1</td>
-    <td>tembin_login_error</td>
+    <td>paramunittest.testTestGet_1</td>
+    <td>get_customer_details</td>
     <td>1</td>
     <td>1</td>
     <td>0</td>
@@ -290,570 +441,67 @@ C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarn
         </div>
         <pre>
         
-pt2.1: tembin_login_error测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateCustomer_0</td>
-    <td>create_customer</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
-</tr>
-
-<tr id='pt3.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.1')" >
-        pass</a>
-
-    <div id='div_pt3.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt3.1: create_customer测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-{'message': 'success', 'module': 'higos', 'result': {'area_id': '000000', 'contract_id': '    ', 'country_id': 'CHN', 'customer_id': 'f04d1377-35e2-3d1f-b306-c64636716c7e', 'customer_level': 1, 'customer_name': 'auto_test_pzBa', 'customer_type': 0, 'dept_id': None, 'formal': 1, 'industry_id': ['9999'], 'language': 'zh_CN', 'operation_mode': 0, 'parent_id': None, 'timezone': 'Asia/Shanghai'}, 'status': 2000}
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateCustomer_1</td>
-    <td>create_customer_null</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c4',1)">Detail</a></td>
-</tr>
-
-<tr id='pt4.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.1')" >
-        pass</a>
-
-    <div id='div_pt4.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt4.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt4.1: create_customer_null测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-{'message': 'customer_name is null', 'module': 'higos', 'result': None, 'status': 4000}
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateCustomer_2</td>
-    <td>create_customer_dupl</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c5',1)">Detail</a></td>
-</tr>
-
-<tr id='pt5.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt5.1')" >
-        pass</a>
-
-    <div id='div_pt5.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt5.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt5.1: create_customer_dupl测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-{'message': 'common message: customer name duplicate', 'module': 'higos', 'result': None, 'status': 4906}
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateServiceSku_0</td>
-    <td>create_service_sku_1101</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c6',1)">Detail</a></td>
-</tr>
-
-<tr id='pt6.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt6.1')" >
-        pass</a>
-
-    <div id='div_pt6.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt6.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt6.1: create_service_sku_1101测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateServiceSku_1</td>
-    <td>create_service_sku_1082</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c7',1)">Detail</a></td>
-</tr>
-
-<tr id='pt7.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt7.1')" >
-        pass</a>
-
-    <div id='div_pt7.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt7.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt7.1: create_service_sku_1082测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateSaleSku_0</td>
-    <td>get_service_sku_list</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c8',1)">Detail</a></td>
-</tr>
-
-<tr id='pt8.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt8.1')" >
-        pass</a>
-
-    <div id='div_pt8.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt8.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt8.1: get_service_sku_list测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-nsf-1101-4c6e8814
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateSaleSku_1</td>
-    <td>create_sale_sku</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c9',1)">Detail</a></td>
-</tr>
-
-<tr id='pt9.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt9.1')" >
-        pass</a>
-
-    <div id='div_pt9.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt9.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt9.1: create_sale_sku测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-{'message': '', 'module': 'haishen', 'result': {'allow_buy_num': '0', 'app_id': 'tembin', 'create_at': 1573723361, 'formal_trial': 1, 'id': 171, 'index': 1710, 'is_deleted': 0, 'note': '', 'operation_mode': 0, 'sale_info_id': 'auto_sale_sku_S9qI-4ee9e0ca', 'service_sku_id': 'nsf-1101-4c6e8814', 'sku_id': 'auto_sale_sku_S9qI', 'sku_name': 'auto_sale_sku_S9qI', 'status': 1, 'update_at': 1573723361}, 'status': 2000}
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateSaleSku_2</td>
-    <td>get_service_sku_list</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c10',1)">Detail</a></td>
-</tr>
-
-<tr id='pt10.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt10.1')" >
-        pass</a>
-
-    <div id='div_pt10.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt10.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt10.1: get_service_sku_list测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-nsf-1082-4d4eb8d0
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.testCreateSaleSku_3</td>
-    <td>create_sale_sku</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c11',1)">Detail</a></td>
-</tr>
-
-<tr id='pt11.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt11.1')" >
-        pass</a>
-
-    <div id='div_pt11.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt11.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt11.1: create_sale_sku测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-{'message': '', 'module': 'haishen', 'result': {'allow_buy_num': '0', 'app_id': 'tembin', 'create_at': 1573723363, 'formal_trial': 1, 'id': 172, 'index': 1720, 'is_deleted': 0, 'note': '', 'operation_mode': 0, 'sale_info_id': 'auto_sale_sku_i1EY-5047fdbc', 'service_sku_id': 'nsf-1082-4d4eb8d0', 'sku_id': 'auto_sale_sku_i1EY', 'sku_name': 'auto_sale_sku_i1EY', 'status': 1, 'update_at': 1573723363}, 'status': 2000}
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.test_create_formal_order_0</td>
-    <td>get_sale_sku_list</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c12',1)">Detail</a></td>
-</tr>
-
-<tr id='pt12.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt12.1')" >
-        pass</a>
-
-    <div id='div_pt12.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt12.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt12.1: get_sale_sku_list测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.test_create_formal_order_1</td>
-    <td>create_formal_order</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c13',1)">Detail</a></td>
-</tr>
-
-<tr id='pt13.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt13.1')" >
-        pass</a>
-
-    <div id='div_pt13.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt13.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt13.1: create_formal_order测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.test_create_formal_order_2</td>
-    <td>get_sale_sku_list</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c14',1)">Detail</a></td>
-</tr>
-
-<tr id='pt14.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt14.1')" >
-        pass</a>
-
-    <div id='div_pt14.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt14.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt14.1: get_sale_sku_list测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='passClass'>
-    <td>paramunittest.test_create_formal_order_3</td>
-    <td>create_formal_order</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c15',1)">Detail</a></td>
-</tr>
-
-<tr id='pt15.1' class='hiddenRow'>
-    <td colspan='2' class='none'><div class='testcase'>testcase</div></td>
-    <td colspan='7' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt15.1')" >
-        pass</a>
-
-    <div id='div_pt15.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt15.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-pt15.1: create_formal_order测试开始前准备
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  warnings.warn(
-测试结束，输出log完结
-
+pt2.1: get_customer_details: 获取客户详情
+**********测试开始**********
+**********请求信息**********
+request method: get
+request url: https://pre.sop.intra.nsfocus.com:443/api/tembin/higos/customer/id/b547d0e1-3585-3845-baf9-f0ef53609c68/
+**********结果返回**********
+{
+  "message": "success",
+  "module": "higos",
+  "result": {
+    "agent_id": null,
+    "app_id": "unknown",
+    "app_name": "未知",
+    "area_id": "000000",
+    "certified": false,
+    "code": null,
+    "contract_id": "    ",
+    "country_id": "CHN",
+    "country_name": "中国",
+    "created_at": 1573197230,
+    "customer_demand": "",
+    "customer_id": "b547d0e1-3585-3845-baf9-f0ef53609c68",
+    "customer_level": 1,
+    "customer_level_name": "普通",
+    "customer_manager_demand": "",
+    "customer_name": "auto_test",
+    "customer_status": true,
+    "customer_type": 0,
+    "dept_id": null,
+    "dept_info": {},
+    "formal": true,
+    "id": 466,
+    "industry_id": [
+      "9999"
+    ],
+    "industry_info": [
+      {
+        "industry_en_name": " ",
+        "industry_id": "9999",
+        "industry_name": "其他",
+        "parent_industry_en_name": " ",
+        "parent_industry_id": "99",
+        "parent_industry_name": "其他"
+      }
+    ],
+    "language": "zh_CN",
+    "loc_info": {},
+    "operation_mode": 0,
+    "parent_id": null,
+    "partner_id": null,
+    "remark": "",
+    "sale_branch": null,
+    "sale_region": null,
+    "salesforce_account_name": null,
+    "timezone": "Asia/Shanghai",
+    "updated_at": 0,
+    "verification": "dd8935d2babbe06ec4a957abf0fff155"
+  },
+  "status": 2000
+}
+**********测试结束，输出log完结**********
 
 
 
@@ -866,8 +514,8 @@ C:\Python38\lib\site-packages\urllib3\connectionpool.py:997: InsecureRequestWarn
 
 <tr id='total_row'>
     <td colspan='2'>Total</td>
-    <td>15</td>
-    <td>15</td>
+    <td>2</td>
+    <td>2</td>
     <td>0</td>
     <td>0</td>
     <td>&nbsp;</td>

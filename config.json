@@ -10,5 +10,12 @@
                "domain": "pre.sop.intra.nsfocus.com",
                "port": "443"
             }
+    },
+    "Mail": {
+        "on_off": "on",
+        "subject": "interface test report",
+        "app":"Foxmail" ,
+        "address":"2271131064@qq.com",
+        "cc":"niemiao@nsfocus.com"
     }
 }

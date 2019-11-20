@@ -7,6 +7,7 @@ import readConfig
 from apscheduler.schedulers.blocking import BlockingScheduler
 #import pythoncom
 import common.Log
+import warnings
 
 #send_mail = send_email()
 path = getpathInfo.get_Path()
@@ -99,6 +100,7 @@ class AllTest:#定义一个类AllTest
 # scheduler.start()
 
 if __name__ == '__main__':
+    warnings.filterwarnings("ignore")
     AllTest().run()
 
 

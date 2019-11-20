@@ -1,6 +1,6 @@
-tembin/tembin_login
-higos/create_customer
-haishen/create_service_sku
-haishen/create_sale_sku
-nangka/create_formal_order
-
+#tembin/tembin_login
+#higos/create_customer
+#haishen/create_service_sku
+#haishen/create_sale_sku
+#nangka/create_formal_order
+test_get

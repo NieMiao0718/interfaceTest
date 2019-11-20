@@ -2,6 +2,7 @@ import requests
 import json
 from common.Log import logger
 from common.login import rq_data
+import warnings
 
 logger = logger
 class RunMain():
@@ -31,13 +32,14 @@ class RunMain():
         return result
 if __name__ == '__main__':#通过写死参数，来验证我们写的请求是否正确
     #result = RunMain().run_main('post', 'http://127.0.0.1:8888/login?', 'name=xiaoming&pwd=111')
+    warnings.filterwarnings("ignore")
     headers, cookies = rq_data()
     '''
     post_data = {"customer_name": "xiaomiing6"}
     post_result = RunMain().run_main('post', 'https://pre.sop.intra.nsfocus.com/api/tembin/higos/customer/', post_data, headers, cookies)
     print(post_result)
     '''
-    get_data = "?service_id=1101"
-    url = 'https://pre.sop.intra.nsfocus.com/api/tembin/haishen/service_sku_list/' + get_data
+    get_data = "?order_id=1"
+    url = 'https://pre.sop.intra.nsfocus.com/api/tembin/nangka/order_detail/' + get_data
     get_result = RunMain().run_main('get', url, headers=headers, cookies=cookies)
     print(get_result)
